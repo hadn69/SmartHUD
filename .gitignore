@@ -1,17 +1,9 @@
-# Gradle
-!gradle-wrapper.jar
-.gradle/
-build/
-
-# IntelliJ
 *.iml
-*.jar
+.gradle/
 .idea/
-out/
+build/
 classes/
-run/
-
-# Project
 compiled/
 docs/
-libs/
+out/
+run/
